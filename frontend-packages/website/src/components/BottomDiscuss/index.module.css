@@ -1,0 +1,19 @@
+.wrap{
+    max-width: 800px;
+}
+
+.title{
+    font-weight: 500;
+    font-size: 20px;
+    margin: 20px 0 22px;
+}
+
+.contentBtn{
+    margin: 0 8px;
+    cursor: pointer;
+    color: rgb(var(--arcoblue-4));
+}
+
+.replyWrap{
+    margin-bottom: 16px;
+}
